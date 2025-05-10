@@ -1,4 +1,6 @@
-## Домашнее задание к занятию "3.Обработка событий"
+## Домашнее задание к занятию "3.Обработка событий"   [![Build status](https://ci.appveyor.com/api/projects/status/cctunla7579vehda?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/events-goblingame)
+
+[GitHub Pages](https://tanyabazuto.github.io/events__goblinGame/)
 
 Правила сдачи задания:
 
