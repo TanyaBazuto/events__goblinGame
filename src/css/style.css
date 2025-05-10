@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.game-field {
+    width: 640px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 0;
+    cursor: url("../pic/hammer__up.png"), auto;
+}
+
+.cell-field {
+    width: 150px;
+    height: 150px;
+    margin: 0 5px 10px;
+    background: rgb(211, 211, 211);
+    border-radius: 10%;
+}
+
+.goblin {
+    padding: 15px 15px;
+    background: radial-gradient(#eb0410, #272727);
+    border-radius: 10%;
+}
+
+.hammer {
+    cursor: url("../pic/hammer__down.png"), auto;
+}
